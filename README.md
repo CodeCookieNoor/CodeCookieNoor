@@ -2,47 +2,57 @@
 
 ###
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postgres,mysql,py,visualstudio,wordpress," />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://img.icons8.com/color/1200/tableau-software.jpg" height="60"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/1200/external-data-analytics-advertising-agency-flaticons-lineal-color-flat-icons-4.jpg" height="60" alt="data analytics"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://img.icons8.com/bubbles/1200/social-media-marketing.jpg" height="60" alt="marketing analysis"  />
   <img width="12" />
-  <img src="https://playwright.dev/img/playwright-logo.svg" height="60" alt="playwright logo"  />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQHlIsAcP91v6A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1725880873576?e=2147483647&v=beta&t=6KoRRFcljZhQxpXMmYq4sE2aKeOJ49J6Qi3iQJfG6KM" height="60" alt="python panda"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cypress" height="60" alt="cypress logo"  />
+  <img src="https://img.icons8.com/?size=160&id=YLG9UzJIbbUZ&format=png" height="60" alt="SEO logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://img.icons8.com/?size=96&id=fcKpGwAbxxfP&format=png" height="60" alt="google analytics logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  
+  <img src="https://img.icons8.com/?size=160&id=JxWi9dUG32DK&format=png" height="60" alt="data cleaning logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
+
+  <img src="https://img.icons8.com/?size=160&id=AfQG1GqyV06c&format=png" height="60" alt="data visual logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+
+  <img src="https://img.icons8.com/?size=96&id=XCww9HPskKrl&format=png" height="60" alt="ab testing logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
+
+  <img src="https://img.icons8.com/?size=96&id=qrAVeBIrsjod&format=png" height="60" alt="google sheet logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+
+  <img src="https://img.icons8.com/?size=96&id=y5utoW4FUM92&format=png" height="60" alt="excel sheet logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+
+  <img src="https://img.icons8.com/?size=160&id=Xq3RA1kWzz3X&format=png" height="60" alt="hubspot logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+
+  <img src="https://img.icons8.com/?size=96&id=Rffi8qeb2fK5&format=png" height="60" alt="streamlit logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+
+  <img src="https://img.icons8.com/?size=96&id=oROcPah5ues6&format=png" height="60" alt="JIRA logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/CircleCI.png" height="60" alt="circleci logo"  />
+
+  <img src="https://img.icons8.com/?size=96&id=iWw83PVcBpLw&format=png" height="60" alt="Canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="60" alt="circleci logo"  />
+
+  <img src="https://img.icons8.com/?size=96&id=aR9CXyMagKIS&format=png" height="60" alt="Canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" height="60" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grok.svg" height="60" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" height="60" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/deepseek.svg" height="60" alt="circleci logo"  />
-  <img width="12" />
+
+  
 </div>
 
 ###
