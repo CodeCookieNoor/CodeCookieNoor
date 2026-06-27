@@ -58,36 +58,104 @@
 ###
 
 <div align="center">
-<a href="https://www.linkedin.com/in/mohammad-rauf-qureshi-9b848052/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/noorulain-rauf/"target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
     height="25"
     alt="LinkedIn profile"
-  />
+
+<a href="mailto:noorulainfaheem95@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png"
+    height="50"
+    alt="Gmail"
 </a>
-</div>
+</div>  
+
+
+
+
 
 ###
 
-✨ Since 2012 I have finding bugs, fixing them, automating them. I’ve led teams, supported customers, built test strategies, migrated frameworks and made frontend/backend developer friends with great success.
+# 👋 Hey, I'm Noorulain!
 
-✍️ Lately I have not committed anything but feel free to review my repositories.
+### 📊 Turning data into stories, dashboards, and better decisions.
 
-🎲 Random stuff : Click [here](https://github.com/M-R-Qureshi?tab=overview&from=2022-12-01&to=2022-12-31) to check a company project I worked on.
+I come from a Digital Marketing background and somehow fell in love with SQL queries, Python notebooks, and dashboards. Today I'm building projects where marketing meets analytics—because data without a story is just numbers.
 
-🔭  I’m currently working on something related to AI and Vibe coding 😉
+I'm currently transitioning into Data Analytics, documenting my learning journey, and building projects that solve real business problems.
 
-- 🔭 I’m currently working on : Nothing special
-- 🌱 I’m currently learning : Python, SQL, PowerBI
-- 👯 I’m looking to collaborate on : Not sure
-- 💬 Ask me about : Poker
-- 📫 How to reach me:
-- ⚡ Fun fact: ...
+---
 
-<details>
+## 🔭 I'm currently working on
 
-<img width="600" alt="XXX" src="https://www.monkeyuser.com/2022/unit-tests/248-unit-tests.png" class="center">
-</details>
+* Building end-to-end analytics projects
+* Developing interactive dashboards with **Streamlit**
+* Creating Tableau dashboards using real-world datasets
+* Growing my data portfolio one project at a time
+
+---
+
+## 🌱 I'm currently learning
+
+* Python
+* SQL
+* PostgreSQL
+* dbt
+* Tableau
+* Streamlit
+* Data Modeling
+* Data Warehousing
+* ETL Pipelines
+* Statistics & A/B Testing
+* Git & GitHub
+
+---
+
+## 🚀 Tech Stack
+
+Python • Pandas • NumPy • SQL • PostgreSQL • Tableau • Streamlit • Excel • Git • GitHub • HTML • CSS
+
+---
+
+## 📂 Current Projects
+
+📊 Germany Digital Behavior & E-Commerce Analysis
+
+📈 Marketing Analytics Dashboards
+
+🛒 Customer & Sales Analytics
+
+📉 SQL Data Exploration
+
+---
+
+## 👯 I'm looking to collaborate on
+
+Open-source data analytics projects, Tableau dashboards, Streamlit applications, and anything that turns messy data into meaningful insights.
+
+---
+
+## 💬 Ask me about
+
+* Why SQL is becoming my second language.
+* Marketing Analytics & SEO.
+* Tableau dashboards.
+* Or why one missing comma can ruin your entire SQL query. 😅
+
+---
+
+
+
+## ⚡ Fun fact
+
+I enjoy playing poker. It turns out reading probabilities, spotting patterns, and making decisions with incomplete information is useful both at the poker table and in data analytics. ♠️
+
+---
+
+> "Every dataset has a story. My goal is to find it—and tell it well."
+
 ###
 
 
